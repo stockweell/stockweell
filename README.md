@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stockweell
+- 👋 Hi, I’m @stockweell! I'm a programmer from Costa Rica!
 - 👀 I’m interested in programing 
 - 🌱 I’m a System  engineer
 - 💞️ I’m looking to collaborate and improve my code skills
